@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Build artifacts
+.cache/
+build/
+dist/
+
+# Environment files
+.env
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Temporary files
+.tmp/
+
+# SQLite database file
+database.sqlite
